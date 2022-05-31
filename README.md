@@ -9,10 +9,10 @@ I am a programmer from Uzbekistan
 #### Top Repositories
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/baxtiyor-gis/crop_monitoring">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=baxtiyor-gis&repo=crop_monitoring&theme=buefy" />
 </a> 
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+<a href="https://github.com/AgroDevUz/ekinjoylash">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AgroDevUz&repo=ekinjoylash&theme=buefy" />
 </a>
 
