@@ -12,8 +12,7 @@ I am a programmer from Uzbekistan
 * Gis
 
 ### About:
-A programmer in the field of frontend web and telegram bot production, has +1 years of experience. Creator of e-commerce, single-page and multi-page, as well as admin panel websites. Specializes in project implementation and management. An inquisitive programmer thirsting to learn new knowledge ;)
-
+----------------------------------------
 
 
 
