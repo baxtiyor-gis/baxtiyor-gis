@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img src="https://avatars.githubusercontent.com/u/57716394?v=4" height="100" alt="baxtiyor-gis-avatar">
+
 I am a programmer from Uzbekistan 
 
 ## Skills:
