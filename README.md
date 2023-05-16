@@ -32,3 +32,24 @@
 </div>
 
 
+
+## :trophy: kncoder's Github Stats:
+
+![Github Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=baxtiyor-gis&theme=github_dark) 
+
+
+
+
+<h2 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35px">&nbsp; Views and Followers :eyes:</h2>
+
+<p align="center">
+    
+<a href="https://github.combaxtiyor-gis/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=baxtiyor-gis">
+</a>
+    <a href="https://github.com/baxtiyor-gis?tab=followers">
+        <img src="https://img.shields.io/github/followers/baxtiyor-gis?label=Followers&style=social" alt="GitHub Badge">
+    </a>
+</p>
+
+
