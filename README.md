@@ -24,6 +24,6 @@
 
 
 
-| <a href="https://github.com/baxtiyor-gis/baxtiyor-gis"><img align="center" src="https://github-readme-stats.vercel.app/api?username=baxtiyor-gis&show_icons=true&include_all_commits=false&theme=dark&hide_border=true" alt="baxtiyor-gis's github stats" /></a> | <a href="https://github.com/baxtiyor-gis/baxtiyor-gis"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baxtiyor-gis&theme=dark&hide_border=true&langs_count=4&hide=html,css,scss" /></a> |
+| <a href="https://github.com/baxtiyor-gis/baxtiyor-gis"><img align="center" src="https://github-readme-stats.vercel.app/api?username=baxtiyor-gis&show_icons=true&include_all_commits=false&theme=dark&hide_border=true" alt="baxtiyor-gis's github stats" /></a> | <a href="https://github.com/baxtiyor-gis/baxtiyor-gis"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baxtiyor-gis&theme=dark&hide_border=true&langs_count=4&hide=html,css,scss,ejs" /></a> |
 | ------------- | ------------- |
 </div>
