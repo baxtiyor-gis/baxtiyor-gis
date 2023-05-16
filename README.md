@@ -16,40 +16,13 @@
 
 
 
-| <a href="https://github.com/baxtiyor-gis/baxtiyor-gis"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=baxtiyor-gis&show_icons=true&include_all_commits=false&theme=buefy&hide_border=true" alt="baxtiyor-gis's github stats" /></a> | <a href="https://github.com/baxtiyor-gis/baxtiyor-gis"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baxtiyor-gis&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-
-
-
-
 <div align="center"> 
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/-TELEGRAM-%230077B5?style=for-the-badge&logo=telegram&logoColor=white"></a>
-  <a href = ">
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=baxtiyor-gis&show_icons=true&include_all_commits=false&theme=buefy&hide_border=true" alt="baxtiyor-gis's github stats" /> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baxtiyor-gis&theme=buefy&hide_border=true&langs_count=8&hide=html,css,scss,ejs" />
 
 </div>
 
+![baxtiyor-gis's](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=baxtiyor-gis&theme=2077)
 
-
-## :trophy: kncoder's Github Stats:
-
-![Github Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=baxtiyor-gis&theme=github_dark) 
-
-
-
-
-<h2 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35px">&nbsp; Views and Followers :eyes:</h2>
-
-<p align="center">
-    
-<a href="https://github.com/baxtiyor-gis/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=baxtiyor-gis">
-</a>
-    <a href="https://github.com/baxtiyor-gis?tab=followers">
-        <img src="https://img.shields.io/github/followers/baxtiyor-gis?label=Followers&style=social" alt="GitHub Badge">
-    </a>
-</p>
 
 
