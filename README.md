@@ -44,7 +44,7 @@
 
 <p align="center">
     
-<a href="https://github.combaxtiyor-gis/github-profile-views-counter">
+<a href="https://github.com/baxtiyor-gis/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=baxtiyor-gis">
 </a>
     <a href="https://github.com/baxtiyor-gis?tab=followers">
