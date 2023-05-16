@@ -18,11 +18,12 @@
 
 <div align="center"> 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=baxtiyor-gis&show_icons=true&include_all_commits=false&theme=buefy&hide_border=true" alt="baxtiyor-gis's github stats" /> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baxtiyor-gis&theme=buefy&hide_border=true&langs_count=8&hide=html,css,scss,ejs" />
 
+![baxtiyor-gis's](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=baxtiyor-gis&theme=dark)
+
+
+
+
+| <a href="https://github.com/baxtiyor-gis/baxtiyor-gis"><img align="center" src="https://github-readme-stats.vercel.app/api?username=baxtiyor-gis&show_icons=true&include_all_commits=false&theme=dark&hide_border=true" alt="baxtiyor-gis's github stats" /></a> | <a href="https://github.com/baxtiyor-gis/baxtiyor-gis"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baxtiyor-gis&theme=dark&hide_border=true&langs_count=4&hide=html,css,scss" /></a> |
+| ------------- | ------------- |
 </div>
-
-![baxtiyor-gis's](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=baxtiyor-gis&theme=2077)
-
-
-
