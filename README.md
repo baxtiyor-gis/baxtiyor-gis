@@ -1,47 +1,32 @@
-<h1 align="center">👋 Salom, men Baxtiyor!</h1>
+# 👋 Salom, men Qahhorov Baxtiyor
 
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> GIS Mutaxassisi • Python/Django Dasturchi • Web Mapping
-</p>
+Geoinformatsion tizimlar, masofaviy zondlash va GIS dasturlash yo‘nalishida ishlovchi mutaxassisman. Asosiy e’tiborim O‘zbek tilida GIS va Remote Sensing sohalarida amaliy kontent yaratishga qaratilgan.
 
 ---
 
-### 🧭 Men nima qilaman:
-
-- 🗺️ Web mapping va GIS tizimlari (Leaflet, Mapbox, ArcGIS)
-- 🔄 Ma’lumotlar bazasi: PostgreSQL + PostGIS
-- 💻 Backend: Python, Django, REST API
-- 🌐 Frontend: HTML, JavaScript, React (asosiy komponentlar)
-
----
-
-### 🛠 Texnologiyalar
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
+## 🔧 Asosiy yo‘nalishlarim:
+- Geoaxborot tizimlari (ArcGIS, QGIS)
+- Masofaviy zondlash (Sentinel, Landsat, NDVI)
+- Python, Django, PostgreSQL (PostGIS)
+- Google Earth Engine
+- Web GIS (Leaflet, OpenLayers)
 
 ---
 
-### 📊 Statistikalar:
-
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=baxtiyor-gis&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baxtiyor-gis&layout=compact&theme=radical" />
-</p>
+## 🌐 Faoliyatlarim:
+- 🎥 O‘zbek tilidagi GIS/RS video darslar — [YouTube: geoinfouz](https://www.youtube.com/@geoinfouz)
+- 📢 Yangiliklar va mini darslar — [Telegram: @geoinfouz](https://t.me/geoinfouz)
+- 💼 Professional profiling — [LinkedIn: Bakhtiyor Kahhorov](https://www.linkedin.com/in/bakhtiyor-kahhorov/)
 
 ---
 
-### 📫 Aloqa:
-
-- 🌍 Sayt: [baxtiyor.dev](https://baxtiyor.dev)
-- 📧 Email: baxtiyor@example.com
-- 🧭 Manzil: Toshkent, O‘zbekiston
+## 📂 Ba’zi loyihalar:
+- Kosmik suratlarni yuklash va mozaik qilish tizimi (GEE + Django + Leaflet)
+- PostGIS bilan ishlaydigan QGIS plugin
+- Python & GeoPandas asosida GIS tahlil kurslari
+- NDVI asosida ekin tahlili
 
 ---
 
-> 🧠 “GIS bu faqat xarita emas — bu qaror qabul qilish asosi.”  
+Agar GIS, RS yoki dasturlash sohalarida hamkorlik qiziqtirsa, yuqoridagi havolalar orqali bog‘lanishingiz mumkin.
+
